@@ -1,0 +1,16 @@
+song { 
+    background-color: white;
+    display: block;
+    margin-bottom: 20pt;
+}
+
+title {
+    font-size: 14pt;
+}
+
+artist, genres, year {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+
+}

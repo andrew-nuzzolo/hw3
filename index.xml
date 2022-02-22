@@ -1,0 +1,89 @@
+<?xml-stylesheet type="text/css" href = "style.css"?>
+<songs>
+
+    <song>
+        <title>Song Name: Perfect</title>
+        <artist>Artist: Ed Sheeran</artist>
+        <genres><genre1>Genre: Top 40 + Contemporary</genre1></genres>
+        <year>Year Released: 2017</year>
+    </song>
+
+    <song>
+        <title>Song Name: Shallow</title>
+        <artist>Artist: Lady Gaga and Bradley Cooper</artist>
+        <genres><genre1>Genre: Top 40 + Contemporary</genre1></genres>
+        <year>Year Released: 2017</year>
+    </song>
+
+    <song>
+        <title>Song Name: What's Going On</title>
+        <artist>Artist: Marvin Gaye</artist>
+        <genres><genre1>Genre: Motown + Funk + Soul</genre1></genres>
+        <year>Year Released: 1971</year>
+    </song>
+
+    <song>
+        <title>Song Name: Superstition</title>
+        <artist>Artist: Stevie Wonder</artist>
+        <genres><genre1>Genre: Motown + Funk + Soul</genre1></genres>
+        <year>Year Released: 1972</year>
+    </song>
+
+    <song>
+        <title>Song Name: Chicken Fried</title>
+        <artist>Artist: Zac Brown Band</artist>
+        <genres><genre1>Genre: Rock</genre1></genres>
+        <year>Year Released: 2005</year>
+    </song>
+
+    <song>
+        <title>Song Name: Brown Eyed Girl</title>
+        <artist>Artist: Van Morrison</artist>
+        <genres><genre1>Genre: Rock</genre1></genres>
+        <year>Year Released: 1967</year>
+    </song>
+
+    <song>
+        <title>Song Name: Hey Ya</title>
+        <artist>Artist: Outkast</artist>
+        <genres><genre1>Genre: Pop + Dance Throwbacks</genre1></genres>
+        <year>Year Released: 2003</year>
+    </song>
+
+    <song>
+        <title>Song Name: No Diggity</title>
+        <artist>Artist: Black Street</artist>
+        <genres><genre1>Genre: Pop + Dance Throwbacks</genre1></genres>
+        <year>Year Released: 1996</year>
+    </song>
+
+    <song>
+        <title>Song Name: A Thousand Years</title>
+        <artist>Artist: Christina Perri</artist>
+        <genres><genre1>Genre: Ceremony + Cocktail + Traditional</genre1></genres>
+        <year>Year Released: 2011</year>
+    </song>
+
+    <song>
+        <title>Song Name: Here Comes The Sun</title>
+        <artist>Arist: The Beatles</artist>
+        <genres><genre1>Genre: Ceremony + Cocktail + Traditional</genre1></genres>
+        <year>Year Released: 1969</year>
+    </song>
+
+    <song>
+        <title>Song Name: Marry You</title>
+        <artist>Artist: Bruno Mars</artist>
+        <genres><genre1>Genre: Ceremony + Cocktail + Traditional</genre1></genres>
+        <year>Year Released: 2011</year>
+    </song>
+
+    <song>
+        <title>Song Name: Somewhere Over The Rainbow</title>
+        <artist>Artist: Israel Kamakawiwo'ole</artist>
+        <genres><genre1>Genre: Ceremony + Cocktail + Traditional</genre1></genres>
+        <year>Year Released: 1939</year>
+    </song>
+
+
+</songs>
